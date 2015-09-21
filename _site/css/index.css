@@ -23,7 +23,7 @@ img{
         background-color: white;
 }
 .header{
-        height: 10em;
+        height: 8em;
 }
 .title{
         position: absolute;
@@ -35,7 +35,9 @@ img{
         margin: 0;
         position:relative;
 }
-.title>h1{font-size: 3em;}
+.title>h1{
+        font-size: 3em;
+}
 .title>h2{
         color:#757575;
         font-size: 1.5em;
@@ -54,6 +56,7 @@ img{
 }
 .card > h1 > a{
         text-decoration: none;
+        color: #0277bd;
 }
 .card > section > h2{
         font-size: 2em;
